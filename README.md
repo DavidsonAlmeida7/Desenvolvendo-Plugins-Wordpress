@@ -1,4 +1,4 @@
-# Desenvolvendo-Plugins-Wordpress
+# Desenvolvendo Plugins Wordpress
 Um sistema utilizando Wordpress, com foco na criação de plugins.
 <ul>
     <li>Um plugin que lista repositórios de um usuário em um widget.</li>
